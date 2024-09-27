@@ -1,0 +1,24 @@
+{
+  "parking": {
+    "slots": {
+      "A1": {
+        "status": "empty",
+        "timestamp": "2023-09-27T08:00:00Z"
+      },
+      "A2": {
+        "status": "occupied",
+        "timestamp": "2023-09-27T08:01:00Z"
+      },
+      "A3": {
+        "status": "empty",
+        "timestamp": "2023-09-27T08:05:00Z"
+      },
+      ...
+    },
+    "summary": {
+      "total_slots": 50,
+      "free_slots": 25,
+      "occupied_slots": 25
+    }
+  }
+}
